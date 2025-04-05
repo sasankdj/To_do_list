@@ -1,0 +1,8 @@
+# Ignore node modules everywhere
+node_modules/
+
+# Optional: other typical stuff
+.env
+dist/
+build/
+.DS_Store
